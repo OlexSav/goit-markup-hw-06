@@ -690,7 +690,7 @@ body {
   font-family: var(--praimary-text-color);
   font-weight: 400;
   font-size: 12px;
-  line-height: 2;
+  line-height: 1.5;
   letter-spacing: 0.04em;
   outline: none;
   color: #ffffff;
@@ -921,7 +921,7 @@ body {
   fill: #f4f4fd;
   background-color: #404bbf;
   border: none;
-  border: 1px solid #404bbf;
+  /* border: 1px solid #404bbf; */
   border-radius: 2px;
 }
 
